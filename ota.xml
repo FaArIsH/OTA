@@ -28,9 +28,9 @@
                 id="rom"
                 title="Rom"
                 description="Download ResurrectionRemix builds">https://www.androidfilehost.com/?fid=24591000424943059</RomUrl>
-          <RromUrl
-                id="rrom"
-                title="Rrom"
+          <Rom2Url
+                id="rom2"
+                title="Old RresurrectionRemix builds"
                 description="Download RresurrectionRemix builds">https://www.androidfilehost.com/?fid=24591000424943s059</RromUrl>                
             <ChangelogUrl
                 id="changelog"
