@@ -27,7 +27,15 @@
             <RomUrl
                 id="rom"
                 title="Rom"
-                description="Download ResurrectionRemix builds">https://www.androidfilehost.com/?fid=24421527759889631</RomUrl>
+                description="Download ResurrectionRemix builds">https://www.androidfilehost.com/?fid=24591000424943059</RomUrl>
+            <RomUrl
+-               id="prevrom"
+-               title="Rom"
+-               description="Download Older Builds">https://androidfilehost.com/?w=files&flid=68457</RomUrl>
+            <RomUrl
+-               id="Custom-kernels"
+-               title="Custom-Kernels"
+-               description="Download Remix-Kernel Builds">https://www.androidfilehost.com/?w=files&flid=74015</RomUrl>
             <ChangelogUrl
                 id="changelog"
                 title="Changelog"
