@@ -31,15 +31,7 @@
             <RromUrl
                 id="rrom"
                 title="Rrom"
-                description="Download Older RresurrectionRemix builds">https://www.androidfilehost.com/?w=files&flid=68457</RromUrl>                
-            <RrromUrl
-                id="rrrom"
-                title="Rrrom"
-                description="Custom OverClocked Kernels">https://www.androidfilehost.com/?w=files&flid=54337</RrromUrl>
-            <RrrromUrl
-            	id="rrrrom"
-            	title="rrrrom"
-            	description="Download Stable TWRP Recovery by DarkFrenzy">https://www.androidfilehost.com/?w=files&amp;flid=48213</RrrromUrl>                
+                description="Download RresurrectionRemix builds">https://www.androidfilehost.com/?fid=24591000424943s059</RromUrl>          
             <ChangelogUrl
                 id="changelog"
                 title="Changelog"
