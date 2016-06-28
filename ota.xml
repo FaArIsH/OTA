@@ -27,15 +27,19 @@
             <RomUrl
                 id="rom"
                 title="Rom"
-                description="Download Latest ResurrectionRemix builds">https://www.androidfilehost.com/?fid=24591000424943059</RomUrl>
-            <RromUrl
+                description="Download ResurrectionRemix builds">https://www.androidfilehost.com/?fid=24591000424943059</RomUrl>
+          <RromUrl
                 id="rrom"
                 title="Rrom"
-                description="Download RresurrectionRemix builds">https://www.androidfilehost.com/?fid=24591000424943s059</RromUrl>          
+                description="Download RresurrectionRemix builds">https://www.androidfilehost.com/?fid=24591000424943s059</RromUrl>                
             <ChangelogUrl
                 id="changelog"
                 title="Changelog"
-                description="View Changelog">https://github.com/ResurrectionRemix/android_vendor_resurrection/blob/marshmallow/CHANGELOG.mkdn</ChangelogUrl>                
+                description="View Changelog">https://github.com/ResurrectionRemix/android_vendor_resurrection/blob/marshmallow/CHANGELOG.mkdn</ChangelogUrl>
+            <SlimGappsUrl
+            	id="slim_gapps"
+            	title="Recovery"
+            	description="Download TWRP Recovery">https://www.androidfilehost.com/?w=files&amp;flid=48213</SlimGappsUrl>
             <OpenGappsUrl
             	id="open_gapps"
             	title="Open"
@@ -43,7 +47,7 @@
             <XDAUrl
                 id="xda"
                 title="XDA"
-                description="Visit RresurrectionRemix Discussion Thread">http://forum.xda-developers.com/galaxy-tab-3/development-7/mm-6-0-1r43-t3383397</XDAUrl>            	
+                description="Visit SlimSaber bacon thread">http://forum.xda-developers.com/galaxy-tab-3/development-7/mm-6-0-1r43-t3383397</XDAUrl>            	
 	</lt02ltespr>
       </Stable>
        <Stable>
