@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <SlimOTA xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="ota.xsd">
-  <stable>
+  <Stable>
     <lt02ltespr>
       <Filename>ResurrectionRemix-M-v5.7.0-20160628-lt02ltespr.zip</Filename>
       <RomUrl
@@ -20,5 +20,5 @@
           title="OpenGapps"
           description="Download OpenGapps">http://opengapps.org/</GappsUrl>
     </lt02ltespr>
-  </stable>
+  </Stable>
 </SlimOTA>
