@@ -28,18 +28,18 @@
                 id="rom"
                 title="Rom"
                 description="Download Latest ResurrectionRemix builds">https://www.androidfilehost.com/?fid=24591000424943059</RomUrl>
-            <RomdirUrl
-                id="romdir"
-                title="Romdir"
-                description="Download Older RresurrectionRemix builds">https://www.androidfilehost.com/?w=files&flid=68457</RomdirUrl>                
-            <CustomkernelsUrl
-                id="customkernels"
-                title="Customkernels"
-                description="Custom OverClocked Kernels">https://www.androidfilehost.com/?w=files&flid=54337</CustomkernelsUrl>
-            <RecoveryUrl
-            	id="recovery"
-            	title="Recovery"
-            	description="Download Stable TWRP Recovery by DarkFrenzy">https://www.androidfilehost.com/?w=files&amp;flid=48213</RecoveryUrl>                
+            <RromUrl
+                id="rrom"
+                title="Rrom"
+                description="Download Older RresurrectionRemix builds">https://www.androidfilehost.com/?w=files&flid=68457</RromUrl>                
+            <RrromUrl
+                id="rrrom"
+                title="Rrrom"
+                description="Custom OverClocked Kernels">https://www.androidfilehost.com/?w=files&flid=54337</RrromUrl>
+            <Rrrrom
+            	id="rrrrom"
+            	title="rrrrom"
+            	description="Download Stable TWRP Recovery by DarkFrenzy">https://www.androidfilehost.com/?w=files&amp;flid=48213</RrrromUrl>                
             <ChangelogUrl
                 id="changelog"
                 title="Changelog"
