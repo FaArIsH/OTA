@@ -43,7 +43,7 @@
             <SlimGappsUrl
             	id="slim_gapps"
             	title="Recovery"
-            	description="Download Stable TWRP Recovery by DarkFrenzy">https://www.androidfilehost.com/?w=files&flid=50055</SlimGappsUrl>
+            	description="Download Stable TWRP Recovery">https://www.androidfilehost.com/?w=files&flid=50055</SlimGappsUrl>
             <OpenGappsUrl
             	id="open_gapps"
             	title="Open"
