@@ -28,6 +28,10 @@
                 id="rom"
                 title="Rom"
                 description="Download ResurrectionRemix builds">https://www.androidfilehost.com/?fid=24591000424943059</RomUrl>
+            <RecoveryUrl
+                id="recovery"
+                title="Recovery"
+                description="Download TWRP Recovery">https://androidfilehost.com/user/?w=settings-dev-files&flid=74015</RomUrl>                
             <ChangelogUrl
                 id="changelog"
                 title="Changelog"
