@@ -10,8 +10,8 @@
       <RomUrl
           id="prevrom"
           title="Rom"
-          description="Download Older Builds">https://androidfilehost.com/user/?w=settings-dev-files&flid=68457</RomUrl>
-	  <ChangelogUrl
+          description="Download Older Builds">https://androidfilehost.com/?w=files&flid=68457</RomUrl>
+      <ChangelogUrl
           id="changelog"
           title="Changelog"
           description="View Changelog">https://github.com/ResurrectionRemix/android_vendor_resurrection/blob/marshmallow/CHANGELOG.mkdn</ChangelogUrl>	  
