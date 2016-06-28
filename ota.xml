@@ -30,11 +30,11 @@
                 description="Download Latest ResurrectionRemix builds">https://www.androidfilehost.com/?fid=24591000424943059</RomUrl>
             <RomdirUrl
                 id="romdir"
-                title="RresurrectionRemix_builds"
+                title="Romdir"
                 description="Download Older RresurrectionRemix builds">https://www.androidfilehost.com/?w=files&flid=68457</RomdirUrl>                
             <CustomkernelsUrl
                 id="customkernels"
-                title="Custom_Kernels"
+                title="Customkernels"
                 description="Custom OverClocked Kernels">https://www.androidfilehost.com/?w=files&flid=54337</CustomkernelsUrl>
             <RecoveryUrl
             	id="recovery"
