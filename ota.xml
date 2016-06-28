@@ -27,11 +27,15 @@
             <RomUrl
                 id="rom"
                 title="Rom"
-                description="Download ResurrectionRemix builds">https://www.androidfilehost.com/?fid=24591000424943059</RomUrl>
+                description="Download ResurrectionRemix builds">https://www.androidfilehost.com/?fid=24591000424943091</RomUrl>
           <Rom2Url
                 id="rom2"
                 title="Old RresurrectionRemix builds"
-                description="Download RresurrectionRemix builds">https://www.androidfilehost.com/?fid=24591000424943s059</Rom2Url>                
+                description="Download RresurrectionRemix builds">https://www.androidfilehost.com/?w=files&flid=68457</Rom2Url> 
+          <Rom3Url
+                id="rom3"
+                title="Custom Kernels"
+                description="Download Custom OverClocked Kernels">https://www.androidfilehost.com/?w=files&flid=54337</Rom3Url>                 
             <ChangelogUrl
                 id="changelog"
                 title="Changelog"
@@ -39,7 +43,7 @@
             <SlimGappsUrl
             	id="slim_gapps"
             	title="Recovery"
-            	description="Download TWRP Recovery">https://www.androidfilehost.com/?w=files&amp;flid=48213</SlimGappsUrl>
+            	description="Download Stable TWRP Recovery by DarkFrenzy">https://www.androidfilehost.com/?w=files&flid=50055</SlimGappsUrl>
             <OpenGappsUrl
             	id="open_gapps"
             	title="Open"
