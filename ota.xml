@@ -23,11 +23,11 @@
       </Stable>
  <Stable>
         <lt02ltespr>
-            <Filename>ResurrectionRemix-N-v5.8.0-20161220-lt02ltespr-OFFICIAL.zip</Filename>
+            <Filename>RR-N-v5.8.0-20170107-lt02ltespr-Official.zip</Filename>
             <RomUrl
                 id="rom"
                 title="Rom"
-                description="Download Official ResurrectionRemix build">http://downloads.resurrectionremix.com/lt02ltespr/ResurrectionRemix-N-v5.8.0-20161220-lt02ltespr-OFFICIAL.zip</RomUrl>
+                description="Download Official ResurrectionRemix build">http://downloads.resurrectionremix.com/lt02ltespr/RR-N-v5.8.0-20170107-lt02ltespr-Official.zip</RomUrl>
             <OpenGappsUrl
             	id="open_gapps"
             	title="Open"
